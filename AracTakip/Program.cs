@@ -9,6 +9,7 @@ namespace AracTakip
     {
         static void Main(string[] args)
         {
+            // Aana kodlar burada ...
         }
     }
 }
